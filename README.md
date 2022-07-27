@@ -1,8 +1,14 @@
-# Hellow, World!!! 👋🚀
+## Hellow, World!!! 👋🚀
 
-## Seja bem vindo(a)! Meu nome é João, mas meu apelido é Lenny .
+### Seja bem vindo(a)! Meu nome é João, mas meu apelido é Lenny .
 
-### Sou desenvolvedor, gosto de ouvir música (Principalmente rock), pratico musculação e amo coisas da cultura nerd.
+<ul>
+  <li>- Cristão;<li/>
+  <li>- Desenvolvedor;<li/>
+  <li>- Roqueiro;<li/>
+  <li>- Praticante de musculação;<li/>
+  <li>- Nerd.<li/>
+<ul/>
 
 <div align="center">
   <a href="https://github.com/JVLENNY10">
