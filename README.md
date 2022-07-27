@@ -3,11 +3,11 @@
 ### Seja bem vindo(a)! Meu nome é João, mas meu apelido é Lenny .
 
 <ul>
-  <li>- Cristão;<li/>
-  <li>- Desenvolvedor;<li/>
-  <li>- Roqueiro;<li/>
-  <li>- Praticante de musculação;<li/>
-  <li>- Nerd.<li/>
+  <li>Cristão;<li/>
+  <li>Desenvolvedor;<li/>
+  <li>Roqueiro;<li/>
+  <li>Praticante de musculação;<li/>
+  <li>Nerd.<li/>
 <ul/>
 
 <div align="center">
