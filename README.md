@@ -4,9 +4,13 @@
 
 <div align="center">
   - Cristão;
+  
   - Desenvolvedor;
+  
   - Roqueiro;
+  
   - Praticante de musculação;
+  
   - Nerd.
 </div>
 
