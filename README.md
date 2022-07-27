@@ -1,6 +1,8 @@
-### Hellow, World!!! 👋🚀
+# Hellow, World!!! 👋🚀
 
-My name is João. I'm a front-end developer!
+## Seja bem vindo(a)! Meu nome é João, mas meu apelido é Lenny .
+
+### Sou desenvolvedor, gosto de ouvir música (Principalmente rock), pratico musculação e amo coisas da cultura nerd.
 
 <div align="center">
   <a href="https://github.com/JVLENNY10">
