@@ -1,4 +1,4 @@
-## Hellow, World!!! 👋🚀
+## Hellow, World!!! 🚀
 
 ### Seja bem vindo(a)! Meu nome é João, mas meu apelido é Lenny .
 
