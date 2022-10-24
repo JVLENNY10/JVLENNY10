@@ -1,6 +1,8 @@
 ## Hellow, World!!! 🚀
 
-### Seja bem vindo(a)! Meu nome é João, mas meu apelido é Lenny .
+### Seja bem vindo(a) ao meu GitHub!
+
+Comecei a programar no início de 2020 pelo "Curso Em Vídeo de Python" ministrado pelo professor Gustavo Guanabara, depois passei pelo curso de "Desenvolvimento de Games" e pelo "Pacote Full-Stack" da Danki Code até chegar à Trybe onde fiz diversos projetos individuais e em grupos o que treinou bastante minhas habilidades técnicas e comportamentais.
 
 <div align="center">
   <a href="https://github.com/JVLENNY10">
