@@ -14,7 +14,9 @@ Comecei a programar no início de 2020 pelo "Curso Em Vídeo de Python" ministra
 
 #
 
-Técnologias
+### Técnologias
+
+#
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS 3 logo"  />
