@@ -2,7 +2,7 @@
 
 ## Seja bem vindo(a) ao meu GitHub!
 
-Comecei a estudar o básico de desenvolvimento no ensino médio, durante o técnico, e após o ensino médio aprofundei meus, fiz o "Curso em Vídeo de Python" ministrado pelo professor Gustavo Guanabara do Curso em Vídeo, depois passei pelo curso de "Desenvolvimento de Games" e pelo "Pacote Full-Stack" da Danki Code até chegar à Trybe onde fiz diversos projetos individuais e em grupos o que treinou bastante minhas habilidades técnicas e comportamentais.
+Comecei a estudar o básico de desenvolvimento no ensino médio, durante o técnico, e após o ensino médio aprofundei meus conhecimentos, fiz o "Curso em Vídeo de Python" do Curso em Vídeo, depois passei pelo curso de "Desenvolvimento de Games" e pelo "Pacote Full-Stack" da Danki Code até chegar à Trybe onde fiz diversos projetos individuais e em grupos o que treinou bastante minhas habilidades técnicas e comportamentais.
 
 ## Status
 
