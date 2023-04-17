@@ -14,7 +14,7 @@ Alguns meses após concluir meus estudos na Trybe fui contratado pela FaliFe e d
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVLENNY10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Técnologias
+## Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS 3 logo"  />
