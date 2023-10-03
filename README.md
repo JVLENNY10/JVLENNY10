@@ -1,10 +1,18 @@
-# Hellow, World!!! 🚀
+# Seja bem vindo(a)!
 
-## Seja bem vindo(a) ao meu GitHub!
+Comecei a estudar o básico de desenvolvimento durante o ensino médio técnico, após isso aprofundei meus conhecimentos: Fiz o "Curso em Vídeo de Python" do Curso em Vídeo, depois passei pelo curso de "Desenvolvimento de Games" e pelo "Pacote Full-Stack" da Danki Code até chegar à Trybe onde fiz diversos projetos individuais e em grupos, o que treinou bastante minhas habilidades técnicas e comportamentais simulando um ambiente de trabalho com meus colegas de turma. Aprendi tecnologias como React.js, Node.js, Sequelize e etc.
 
-Comecei a estudar o básico de desenvolvimento no ensino médio, durante o técnico, e após o ensino médio aprofundei meus conhecimentos, fiz o "Curso em Vídeo de Python" do Curso em Vídeo, depois passei pelo curso de "Desenvolvimento de Games" e pelo "Pacote Full-Stack" da Danki Code até chegar à Trybe onde fiz diversos projetos individuais e em grupos, o que treinou bastante minhas habilidades técnicas e comportamentais simulando um ambiente de trabalho com meus colegas de turma. Aprendi tecnologias como React.js, Node.js, Sequelize e etc.
-
-Alguns meses após concluir meus estudos na Trybe fui contratado pela FaliFe e direcionado ao time de DevOps da Medgrupo
+Atualmente faço parte do time de DevOps da Medgrupo como terceirizado:
+<ul>
+  <li>Experiência com microserviços;</li>
+  <li>Criação / manutenção de API’s utilizando Node.js e .NET;</li>
+  <li>Criação / manutenção de JOBS que rodam diariamente utilizando .NET;</li>
+  <li>Criação / manutenção de automatizações de scripts para MongoDB e SQL;</li>
+  <li>Criação / manutenção de aplicações para obsevabilidade das APIs;</li>
+  <li>Criação / manutenção de aplicações front-end utilizando React.js;</li>
+  <li>Deploy de aplicações na AWS;</li>
+  <li>Documentação de projetos.</li>
+</ul>
 
 ## Status
 
@@ -17,17 +25,18 @@ Alguns meses após concluir meus estudos na Trybe fui contratado pela FaliFe e d
 ## Tecnologias
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS 3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="Docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="Express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML 5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="Jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" width="52" alt="Mocha logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="MongoDB logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="NodeJs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="Sequelize logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="TypesScript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="NodeJs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="Express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="Jest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" width="52" alt="Mocha logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="TypesScript logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="40" width="52" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML 5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS 3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="Sequelize logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="Docker logo" />
 </div>
