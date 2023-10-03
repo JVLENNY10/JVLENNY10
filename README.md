@@ -1,6 +1,6 @@
 # Seja bem vindo(a)!
 
-Comecei a estudar o básico de desenvolvimento durante o ensino médio técnico, após isso aprofundei meus conhecimentos: Fiz o "Curso em Vídeo de Python" do Curso em Vídeo, depois passei pelo curso de "Desenvolvimento de Games" e pelo "Pacote Full-Stack" da Danki Code até chegar à Trybe onde fiz diversos projetos individuais e em grupos, o que treinou bastante minhas habilidades técnicas e comportamentais simulando um ambiente de trabalho com meus colegas de turma. Aprendi tecnologias como React.js, Node.js, Sequelize e etc.
+Comecei a estudar o básico de desenvolvimento durante o ensino médio técnico, após isso aprofundei meus conhecimentos: Fiz o "Curso em Vídeo de Python" do Curso em Vídeo, depois passei pelo curso de "Desenvolvimento de Games" e pelo "Pacote Full-Stack" da Danki Code até chegar à Trybe onde fiz diversos projetos individuais e em grupos, o que treinou bastante minhas habilidades técnicas e comportamentais simulando um ambiente de trabalho com meus colegas de turma. Aprendi tecnologias como React.js, Node.js, Sequelize e etc. Possuo experiência trabalhando como freelancer.
 
 Atualmente faço parte do time de DevOps da Medgrupo como terceirizado:
 <ul>
