@@ -8,7 +8,7 @@ Atualmente faço parte do time de DevOps da Medgrupo como terceirizado:
   <li>Criação / manutenção de API’s utilizando Node.js e .NET;</li>
   <li>Criação / manutenção de JOBS que rodam diariamente utilizando .NET;</li>
   <li>Criação / manutenção de automatizações de scripts para MongoDB e SQL;</li>
-  <li>Criação / manutenção de aplicações para obsevabilidade das APIs;</li>
+  <li>Criação / manutenção de aplicações para observabilidade das APIs;</li>
   <li>Criação / manutenção de aplicações front-end utilizando React.js;</li>
   <li>Deploy de aplicações na AWS;</li>
   <li>Documentação de projetos.</li>
