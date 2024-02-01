@@ -1,6 +1,6 @@
 ## Experiência
 <ul>
-  <li>Possuo mais de 3 anos de experiência como desenvolvedor com conhecimentos em Front-End e em Back-End;</li>
+  <li>Possuo mais de 4 anos de experiência como desenvolvedor com conhecimentos em Front-End e em Back-End;</li>
   <li>Microserviços;</li>
   <li>Criação / manutenção de API’s utilizando Node.js e .NET;</li>
   <li>Criação / manutenção de JOBS que rodam diariamente utilizando .NET;</li>
