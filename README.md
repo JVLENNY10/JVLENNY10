@@ -1,6 +1,6 @@
 ## Experiência
 <ul>
-  <li>Possuo 4 anos de experiência como desenvolvedor;</li>
+  <li>4 anos como desenvolvedor;</li>
   <li>Microserviços;</li>
   <li>Criação / manutenção de API’s utilizando Node.js e .NET;</li>
   <li>Criação / manutenção de JOBS que rodam diariamente utilizando .NET;</li>
