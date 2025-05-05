@@ -1,14 +1,13 @@
 ## Experiência
+
+<p>
+  Desenvolvedor Full Stack com sólida experiência em soluções web, atuando desde a definição da arquitetura até o deploy em produção. Trabalho com foco em escalabilidade, performance e automação.
+</p>
+
 <ul>
-  <li>5 anos como desenvolvedor;</li>
-  <li>Microserviços;</li>
-  <li>Criação / manutenção de API’s utilizando Node.js e .NET;</li>
-  <li>Criação / manutenção de JOBS que rodam diariamente utilizando .NET;</li>
-  <li>Criação / manutenção de automatizações de scripts para MongoDB e SQL;</li>
-  <li>Criação / manutenção de aplicações para observabilidade das APIs;</li>
-  <li>Criação / manutenção de aplicações front-end utilizando React.js;</li>
-  <li>Deploy de aplicações na AWS;</li>
-  <li>Documentação de projetos.</li>
+ <li>Forte domínio de tecnologias como Node.js, React.js, .NET, MongoDB, SQL, Redis, Docker e AWS.</li>
+ <li>Vivência em desenvolvimento de soluções para marketing, microserviços, CRON Jobs, APIs de monitoramento, página de status + gráficos para observabilidade de aplicações, deploys automatizados em AWS com GitHub Actions.</li>
+ <li>Entrego soluções completas: do back-end robusto ao front-end funcional — sempre com foco em resultado para o negócio.</li>
 </ul>
 
 ## Status
