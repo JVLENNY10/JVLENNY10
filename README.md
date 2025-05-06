@@ -11,7 +11,7 @@
 </ul>
 
 ## Status
-    ### ![Status](https://github.com/JVLENNY10/JVLENNY10/blob/main/profile-3d-contrib/profile-night-view.svg)
+<!-- ![Status](https://github.com/JVLENNY10/JVLENNY10/blob/main/profile-3d-contrib/profile-night-view.svg) -->
 
 <div align="center">
   <a href="https://github.com/JVLENNY10">
@@ -95,4 +95,4 @@
   <img alt="html5-logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" />
 </div>
 
-    ## REDES
+<!-- ## REDES -->
