@@ -10,7 +10,7 @@
  <li>Entrego soluções completas: do back-end robusto ao front-end funcional — sempre com foco em resultado para o negócio.</li>
 </ul>
 
-## Status 1
+## Status
 ![Status](https://github.com/JVLENNY10/JVLENNY10/blob/main/profile-3d-contrib/profile-night-view.svg)
 
 <div align="center">
