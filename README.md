@@ -13,8 +13,6 @@
 ## Status 1
 ![Status](https://github.com/JVLENNY10/JVLENNY10/blob/main/profile-3d-contrib/profile-night-view.svg)
 
-## Status
-
 <div align="center">
   <a href="https://github.com/JVLENNY10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVLENNY10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
