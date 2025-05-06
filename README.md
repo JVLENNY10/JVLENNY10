@@ -10,6 +10,9 @@
  <li>Entrego soluções completas: do back-end robusto ao front-end funcional — sempre com foco em resultado para o negócio.</li>
 </ul>
 
+## Status 1
+![Status](./url)
+
 ## Status
 
 <div align="center">
