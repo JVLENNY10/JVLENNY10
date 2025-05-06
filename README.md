@@ -92,7 +92,7 @@
 
   <img alt="tailwindcss-logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="52" />
 
-  <img alt="html5-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" />
+  <img alt="html5-logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" />
 </div>
 
 ## REDES
