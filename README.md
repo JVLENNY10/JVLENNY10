@@ -11,7 +11,7 @@
 </ul>
 
 ## Status 1
-![Status](./url/profile-night-view.svg)
+![Status](./url)
 
 ## Status
 
