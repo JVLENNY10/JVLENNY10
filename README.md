@@ -24,7 +24,7 @@ Ao longo da minha trajetória, também atuei em contexto full stack, mas meu foc
  <li>Observabilidade com Grafana</li>
 </ul>
 
-<div align="center">
+<div align="start">
   <img alt="csharp-logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" />
   <img alt="dot-net-logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" width="52" />
   
