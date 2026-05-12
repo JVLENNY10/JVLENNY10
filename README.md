@@ -11,6 +11,9 @@ Tenho vivência com .NET, Node.js, SQL Server, MongoDB, Redis e RabbitMQ, além 
 Ao longo da minha trajetória, também atuei em contexto full stack, mas meu foco principal tem sido o desenvolvimento back-end, incluindo processamento de dados, automações, mensageria, logging estruturado, observabilidade e evolução da arquitetura de aplicações.
 </p>
 
+## Status
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVLENNY10&theme=github_dark)
+
 ## Tecnologias e frentes com as quais atuo com mais frequência:
 <ul>
  <li>.NET e Node.js</li>
@@ -21,10 +24,6 @@ Ao longo da minha trajetória, também atuei em contexto full stack, mas meu foc
  <li>Observabilidade com Grafana</li>
 </ul>
 
-## Status
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVLENNY10&theme=github_dark)
-
-## Tecnologias
 <div align="center">
   <img alt="csharp-logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" />
   <img alt="dot-net-logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" width="52" />
